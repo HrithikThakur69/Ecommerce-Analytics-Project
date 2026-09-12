@@ -96,16 +96,6 @@ plt.close()
 print("Chart 6 (Pie): Orders by Payment Method saved.")
 print("\nAll 6 visualizations saved.")
 
-# # ---------------- Bonus 7: Correlation Heatmap ----------------
-# numeric_cols = ["customer_age", "product_price", "quantity", "discount_pct",
-#                  "total_amount", "delivery_days", "customer_rating"]
-# corr = df[numeric_cols].corr()
-# fig, ax = plt.subplots(figsize=(7, 6))
-# sns.heatmap(corr, annot=True, cmap="coolwarm", fmt=".2f", square=True, ax=ax)
-# ax.set_title("Correlation Heatmap - Numeric Variables", fontsize=13, fontweight="bold")
-# plt.tight_layout()
-# plt.savefig("chart7_correlation_heatmap.png", dpi=150)
-# plt.close()
-# print("Chart 7 (Heatmap, bonus): Correlation Heatmap saved.")
+
 
 
