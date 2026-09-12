@@ -117,6 +117,3 @@ project_repo/
 └── presentation/
     └── Capstone_Presentation.pptx
 ```
-
-## Author
-Aarav Sharma | InternNova Data Analytics Internship | Batch-03
