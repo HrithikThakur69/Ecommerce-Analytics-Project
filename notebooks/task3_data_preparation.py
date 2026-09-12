@@ -10,7 +10,7 @@ required across the rest of the capstone.
 """
 import pandas as pd
 
-df = pd.read_csv("ecommerce_orders_raw.csv")
+df = pd.read_csv("/Users/hrihtikrahul/Desktop/InternNova Internship/week 6/project_repo/data/ecommerce_orders_raw.csv")
 
 print("=" * 70)
 print("DATA INSPECTION")
