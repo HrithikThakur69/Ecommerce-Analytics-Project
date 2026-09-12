@@ -107,7 +107,6 @@ project_repo/
 │   ├── task3_data_preparation.py
 │   ├── task4_eda.py
 │   ├── task5_visualizations.py
-│   ├── task6_powerbi_dashboard.py
 │   └── task7_insights_recommendations.py
 ├── visualizations/
 │   └── chart1_*.png ... chart7_*.png
